@@ -1,0 +1,21 @@
+TirePressure_Front,TirePressure_Rear,TireSize_Front,TireSize_Rear,DriverWeight_kg,CoolantTemperature_C,CoolantType,PES
+1.62,1.69,29/71-R18,34/71-R18,79,94,Ethylene Glycol,97.5
+1.59,1.69,29/71-R18,34/71-R18,79,94,Ethylene Glycol,97.6
+1.68,1.74,29/71-R18,34/71-R18,77,94,Ethylene Glycol,97.6
+1.57,1.67,29/71-R18,34/71-R18,76,90,Ethylene Glycol,97.9
+1.61,1.6,29/71-R18,34/71-R18,80,90,Ethylene Glycol,95.4
+1.48,1.73,29/71-R18,34/71-R18,74,96,Ethylene Glycol,97.8
+1.6,1.72,29/71-R18,34/71-R18,76,92,Ethylene Glycol,98.7
+1.57,1.8,29/71-R18,34/71-R18,73,93,Ethylene Glycol,97.3
+1.6,1.73,29/71-R18,34/71-R18,80,99,Ethylene Glycol,96.4
+1.61,1.67,29/71-R18,34/71-R18,78,97,Ethylene Glycol,97.7
+1.64,1.64,29/71-R18,34/71-R18,73,95,Ethylene Glycol,98.0
+1.62,1.63,29/71-R18,34/71-R18,73,99,Ethylene Glycol,97.3
+1.49,1.65,29/71-R18,34/71-R18,75,97,Ethylene Glycol,98.0
+1.64,1.83,29/71-R18,34/71-R18,79,94,Ethylene Glycol,96.1
+1.53,1.66,29/71-R18,34/71-R18,76,97,Ethylene Glycol,98.0
+1.53,1.66,29/71-R18,34/71-R18,80,90,Ethylene Glycol,95.4
+1.6,1.69,29/71-R18,34/71-R18,72,97,Ethylene Glycol,98.0
+1.65,1.75,29/71-R18,34/71-R18,72,100,Ethylene Glycol,96.5
+1.59,1.67,29/71-R18,34/71-R18,80,96,Ethylene Glycol,96.9
+1.59,1.76,29/71-R18,34/71-R18,72,96,Ethylene Glycol,97.6
